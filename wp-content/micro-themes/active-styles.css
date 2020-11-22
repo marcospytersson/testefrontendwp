@@ -1,0 +1,155 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> icone menu produtos **/
+#post-65 img {
+	vertical-align: top !important;
+	margin-right: 290px !important;
+	position: relative !important;
+	top: 40px !important;
+}
+
+/** General >> texto menu produto **/
+#post-65 h3 {
+	font-family: roboto !important;
+	line-height: 33px !important;
+	font-weight: 700 !important;
+	width: 187px !important;
+	height: 66px !important;
+	padding-left: 5px !important;
+	margin-left: 80px !important;
+	position: relative !important;
+	left: 30px !important;
+}
+
+/** General >> descricao menu produto **/
+.uagb-infobox-has-image .uagb-ifb-desc {
+	font-family: roboto !important;
+	font-size: 18px !important;
+	line-height: 27px !important;
+	width: 320px !important;
+	top: 20px !important;
+}
+
+/** General >> imagem dados notebook produto **/
+#post-65 .wp-image-98 {
+	padding-left: 130px !important;
+}
+
+/** General >> descricao home **/
+#post-61 .uagb-ifb-desc {
+	font-family: roboto !important;
+	font-size: 16px !important;
+	line-height: 20px !important;
+	font-weight: 700 !important;
+}
+
+/** General >> imagem email home **/
+#post-61 .wp-image-122 {
+	width: 1000px !important;
+	height: 784px !important;
+	padding-bottom: 196px !important;
+}
+
+/** General >> botao home **/
+#post-61 .uagb-buttons-repeater {
+	font-family: roboto !important;
+	font-weight: 700 !important;
+	height: 45px !important;
+	margin-top: 50px !important;
+}
+
+/** General >> botao prototipagem depois da descricao **/
+#post-65 .uagb-buttons-repeater {
+	position: relative !important;
+	top: 30px !important;
+}
+
+
+/*= Header ==================== */
+
+/** Header >> input email menu principal **/
+#primary-menu [type="e-mail"] {
+	font-family: roboto !important;
+	color: rgb(0, 0, 0) !important;
+	text-align: left !important;
+	background-color: rgb(239, 239, 239) !important;
+	width: 273px !important;
+	height: 52px !important;
+	padding-top: 19px !important;
+	padding-bottom: 2px !important;
+	padding-left: 39px !important;
+	margin-top: 12px !important;
+	margin-right: 35.92px !important;
+	border-top-color: rgb(239, 239, 239) !important;
+	border-left-color: rgb(239, 239, 239) !important;
+	border-radius: 39px !important;
+}
+
+/** Header >> botao menu principal **/
+#primary-menu [type="submit"] {
+	width: 141px !important;
+	height: 50px !important;
+	padding-top: 1px !important;
+	padding-bottom: 0 !important;
+	padding-left: 38px !important;
+	margin-right: 12px !important;
+	border-radius: 39px !important;
+	position: relative !important;
+	bottom: 10px !important;
+}
+
+
+/*= Content =================== */
+
+/** Content >> campo email para receber noticias produto **/
+#post-65 [type="e-mail"] {
+	color: rgb(244, 244, 244) !important;
+	text-align: left !important;
+	text-indent: 20px !important;
+	background-color: rgb(244, 244, 244) !important;
+	width: 353px !important;
+	height: 54px !important;
+	border-radius: 39px !important;
+	position: relative !important;
+	right: 70px !important;
+}
+
+/** Content >> descricao icones contatos **/
+.uagb-infobox-has-image .uagb-ifb-desc {
+	position: relative !important;
+	top: -43px !important;
+	bottom: 43px !important;
+	left: 50px !important;
+}
+
+/** Content >> botao receber noticias produto **/
+#post-65 [type="submit"] {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(239, 39, 121) !important;
+	width: 353px !important;
+	height: 50px !important;
+	position: relative !important;
+	right: 70px !important;
+}
+
+/** Content >> botao formulario contatos **/
+#post-9 [type="submit"] {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(239, 39, 121) !important;
+	position: relative !important;
+	top: 20px !important;
+	left: 190px !important;
+}
+
+/** Content >> email formulario contatos **/
+#post-9 [type="e-mail"] {
+	text-indent: 10px !important;
+	background-color: rgb(245, 245, 245) !important;
+	width: 306px !important;
+	height: 45px !important;
+	border: 0 solid rgb(244, 244, 244) !important;
+}
+
